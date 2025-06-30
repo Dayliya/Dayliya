@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Dayli
-- 👀 I’m interested in Networking and crafting
+- 👋 Hi, I’m @Dayliya
+- 👀 I’m interested in Networking 
 - 🌱 I’m currently learning computer networking degree program
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me by using email and linkedln
